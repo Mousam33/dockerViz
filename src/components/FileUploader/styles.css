@@ -95,3 +95,7 @@ th {
 #dark .error {
     color: #fff;
 }
+
+#dark img {
+    filter: invert(1);
+}
